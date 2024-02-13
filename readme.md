@@ -16,7 +16,7 @@ npm install
 node ./rock-paper-scissors.js rock paper scissors
 ```
 
-- When you initialize you can see the table of available moves and which result you can expect:
+- When initialized, press '?' in order to see the table of available moves and which result to expect:
 
 ```
 ┌─────────┬────────────┬────────────────┬────────────────┬────────────────┐
